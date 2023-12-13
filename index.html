@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="./src/dist/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+  <title>Frontend Mentor | Fylo data storage component</title>
+</head>
+<body class="w-full h-screen grid justify-center place-content-center gap-2 bg-cover relative bg-backgroundMobile px-2 md:bg-backgroundDesktop md:bg-cover md:flex md:justify-center md:place-items-center md:bg-center md:gap-9">
+  <div class="bg-Dark_Blue p-5 pl-5 md:w-56 rounded-[8px] rounded-tr-[80px] grid gap-5 justify-start">
+    <img src="./assets/images/logo.svg" alt="logo" class="w-24">
+    <div class="flex w-full gap-[20px] place-content-start">
+      <img src="./assets/images/icon-document.svg" alt="icone-document" class="w-[33px] h-[33px] bg-Very_Dark_Blue p-[8px] rounded-sm hover:scale-105 transition-all">
+      <img src="./assets/images/icon-folder.svg" alt="icone-document" class="w-[33px] h-[32px] bg-Very_Dark_Blue p-[8px] rounded-sm">
+      <img src="./assets/images/icon-upload.svg" alt="icone-document" class="w-[32px] h-[31px] bg-Very_Dark_Blue p-[8px] rounded-sm">
+    </div>
+  </div>
+  <div class="grid gap-1 p-6 bg-Dark_Blue relative rounded-[8px] md:w-[350px]">
+    <p class="text-Grayish_Blue text-[13px]">You’ve used <span class="text-Pale_Blue text-[13px] font-semibold">815 GB </span>of your storage</p>
+    <input type="range" class="bg-pink-300 border-white">
+    <div class="w-full flex justify-between font-semibold text-[12px] text-Pale_Blue">
+      <p>0 GB</p>
+      <p>1000 GB</p>
+    </div>
+    <div class="absolute bottom-[-16px] right-[35%] rounded-[8px] text-[21px] px-2 py-1 bg-white font-bold text-Very_Dark_Blue md:right-1 md:bottom-20">
+      <span class="border-[0 17.5px 150px 17.5px] bg-white absolute top-1"></span>
+      1<span class="pb-1">8</span>5
+      <span class="text-[8px] text-Grayish_Blue leading-[24px]">GB LEFT</span>
+    </div>
+  </div>
+  <div class="absolute bottom-0 w-full  text-[14px] text-Grayish_Blue text-center font-semibold">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#" class="text-gray-100 text-[15px] underline ml-1">Sourabh Yalagod</a>
+  </div>
+</body>
+</html>
