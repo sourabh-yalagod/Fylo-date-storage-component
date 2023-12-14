@@ -35,6 +35,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Reposetary]([https://github.com/sourabh-yalagod/Fylo-date-storage-component/actions/runs/7193880332](https://github.com/sourabh-yalagod/Fylo-date-storage-component))
+- Live Site URL: [Solution Repository](https://github.com/sourabh-yalagod/Fylo-date-storage-component)
 - Live Site URL: [live site](https://sourabh-yalagod.github.io/Fylo-date-storage-component/)
 
