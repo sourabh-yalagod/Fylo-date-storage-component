@@ -2,7 +2,7 @@
 
 This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+## Table of contents 📋
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -10,7 +10,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [Links](#links)
   - [Built with](#built-with)
 
-## Overview
+## Overview 🌟
 
 ### The challenge
 
@@ -18,23 +18,27 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots 🖼️
 
-![](./assets/design/desktop-design.jpg)
-![](./assets/design/mobile-design.jpg)
+#### Desktop Layout
+![Desktop Design](./assets/design/desktop-design.jpg)
 
-### Built with
+#### Mobile Layout
+![Mobile Design](./assets/design/mobile-design.jpg)
+
+### Links 🔗
+
+- Solution Repository: [GitHub Repo](https://github.com/sourabh-yalagod/Fylo-date-storage-component)
+- Live Site: [View Live](https://sourabh-yalagod.github.io/Fylo-date-storage-component/)
+
+### Built with 🛠️
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- tailwindcss
-- hover effet
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+- Hover effects
 
-### Links
-
-- Live Site URL: [Solution Repository](https://github.com/sourabh-yalagod/Fylo-date-storage-component)
-- Live Site URL: [live site](https://sourabh-yalagod.github.io/Fylo-date-storage-component/)
-
+Feel free to clone the repository and explore the code! 🚀
